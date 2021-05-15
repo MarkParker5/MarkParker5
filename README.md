@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @MarkParker5, iOS Developer🍎
-- 👀 I’m interested in everything related to programming and technology
-- 🌱 I’m currently learning mobile development (Android and iOS)
+- 👋 Hi, I’m @MarkParker5
+- 🍎 iOS Developer
