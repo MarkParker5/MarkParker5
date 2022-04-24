@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @MarkParker5
-- 🍎 iOS Developer
+- 🍎 Swift (iOS) Developer
+- 🐍 Python Developer
