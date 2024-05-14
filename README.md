@@ -29,3 +29,12 @@ I'm making [majordom.io](https://majordom.io/blog/welcome-to-majordom) - a smart
 - [rpi-networking](https://github.com/MarkParker5/rpi-networking) - Control wifi, hotspot, and hostname of Raspberry Pi (created for raspbian, but can also work with other Linux systems)
 - [raspi-gpio](https://github.com/MarkParker5/raspi-gpio) - RPi.GPIO and spidev wrapper with mocks for developmennt on any platform
 - [rpi-reactive-gpio](https://github.com/MarkParker5/rpi-reactive-gpio) - Syntax sugar for controlling RPi.GPIO with reactive design.
+
+### Dr. House AI
+
+[HouseMDAI](https://github.com/HouseMDAI) - AI diagnostician in your phone. A PoC of a startup, built on hackathon in two days. SwiftUI app, FastAPI backend, OpenAI api, business models, and custdev.  
+
+Articles:
+- [How We Built an AI Startup in a Weekend Hackathon in Germany](https://markparker.me/blog/how-we-built-an-ai-startup-in-a-weekend-hackathon-in-germany)
+- [Dr. House — AI Diagnostician in your phone. Passing the Torch and Entrusting a Startup to Capable Hands](https://markparker.me/blog/house-md-ai-diagnostician-in-your-phone-passing-the-torch-and-entrusting-a-startup-to-capable-hands)
+- [AI-powered Mobile App with Backend in Two Days (Tutorial)](https://markparker.me/blog/ai-powered-mobile-app-with-backend-in-two-days-tutorial)
