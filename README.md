@@ -12,7 +12,7 @@ I'm making [majordom.io](https://majordom.io/blog/welcome-to-majordom) - a smart
 
 ### Voice Interfaces
 
-- [STARK](https://github.com/MarkParker5/STARK) - Speech And Text Algorithmic Recognition Kit. Modern, advanced, and fast framework for creating natural language (especially voice) interfaces. Like FastAPI, but with speech instead of http.
+- [STARK](https://github.com/MarkParker5/STARK) - (python) Speech And Text Algorithmic Recognition Kit. Modern, advanced, and fast framework for creating natural language (especially voice) interfaces. Like FastAPI, but with speech instead of http.
 - [STARK-PLACE](https://github.com/MarkParker5/STARK-PLACE) - S.T.A.R.K. Platform Library and Community Extensions
 
 ### iOS/swift Development
