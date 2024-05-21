@@ -34,7 +34,11 @@ I'm making [majordom.io](https://majordom.io/blog/welcome-to-majordom) - a smart
 
 [HouseMDAI](https://github.com/HouseMDAI) - AI diagnostician in your phone. A PoC of a startup, built on hackathon in two days. SwiftUI app, FastAPI backend, OpenAI api, business models, and custdev.  
 
-Articles:
+Articles about the project:
 - [How We Built an AI Startup in a Weekend Hackathon in Germany](https://markparker.me/blog/how-we-built-an-ai-startup-in-a-weekend-hackathon-in-germany)
 - [Dr. House — AI Diagnostician in your phone. Passing the Torch and Entrusting a Startup to Capable Hands](https://markparker.me/blog/house-md-ai-diagnostician-in-your-phone-passing-the-torch-and-entrusting-a-startup-to-capable-hands)
 - [AI-powered Mobile App with Backend in Two Days (Tutorial)](https://markparker.me/blog/ai-powered-mobile-app-with-backend-in-two-days-tutorial)
+
+## Blog
+
+Check my blog at [markparker.me](https://markparker.me/blog) or mirrors at [medium](https://markparker5.medium.com/), [dev.to](https://dev.to/markparker5), or [hashnode](https://markparker5.hashnode.dev/newsletter). You can subscribe to articles on these platforms. Additional notifications will also be on [Twitter](https://twitter.com/MarkParker_5) and [Threads](https://www.threads.net/@markparker_5).
