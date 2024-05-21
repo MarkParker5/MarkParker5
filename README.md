@@ -24,7 +24,7 @@ I'm making [majordom.io](https://majordom.io/blog/welcome-to-majordom) - a smart
 
 ### Python Development
 
-- [python-app-architecture-demo](https://github.com/MarkParker5/python-app-architecture-demo) - clean architecture example for the [article](#) (in progress)
+- [python-app-architecture-demo](https://github.com/MarkParker5/python-app-architecture-demo) - clean architecture example for the [article](https://markparker.me/blog/python-architecture-essentials-building-scalable-and-clean-application-for-juniors)
 - [system-sounds](https://github.com/MarkParker5/system-sounds) - list and play available system sound files (cross-platform)
 - [rpi-networking](https://github.com/MarkParker5/rpi-networking) - Control wifi, hotspot, and hostname of Raspberry Pi (created for raspbian, but can also work with other Linux systems)
 - [raspi-gpio](https://github.com/MarkParker5/raspi-gpio) - RPi.GPIO and spidev wrapper with mocks for developmennt on any platform
