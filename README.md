@@ -41,4 +41,4 @@ Articles about the project:
 
 ## Blog
 
-Check my blog at [markparker.me](https://markparker.me/blog) or mirrors at [medium](https://markparker5.medium.com/), [dev.to](https://dev.to/markparker5), or [hashnode](https://markparker5.hashnode.dev/newsletter). You can subscribe to articles on these platforms. Additional notifications will also be on [Twitter](https://twitter.com/MarkParker_5) and [Threads](https://www.threads.net/@markparker_5).
+Check my blog at [markparker.me/blog](https://markparker.me/blog) or mirrors at [medium](https://markparker5.medium.com/), [dev.to](https://dev.to/markparker5), or [hashnode](https://markparker5.hashnode.dev/newsletter). You can subscribe to articles on these platforms. Additional notifications will also be on [Twitter](https://twitter.com/MarkParker_5) and [Threads](https://www.threads.net/@markparker_5). More relevant links can be found at [markparker.me](https://markparker.me)
